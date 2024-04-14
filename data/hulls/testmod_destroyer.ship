@@ -197,7 +197,7 @@
     "height": 280,
     "hullId": "testmod_destroyer",
     "hullName": "Wraith",
-    "hullSize": "Destroyer",
+    "hullSize": "DESTROYER",
     "shieldCenter": [
         8,
         1
